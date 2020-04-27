@@ -1,0 +1,44 @@
+{
+  "portafolio": [
+    {
+      "id": 1,
+      "nombre": "Sitios Web",
+      "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+    },
+    {
+      "id": 2,
+      "nombre": "Tele Trabajo",
+      "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+    },
+    {
+      "id": 3,
+      "nombre": "Impresoras",
+      "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+    },
+    {
+      "id": 4,
+      "nombre": "PC - Notebook",
+      "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+    },
+    {
+      "id": 5,
+      "nombre": "Redes de Internet",
+      "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+    },
+    {
+      "id": 6,
+      "nombre": "Aplicaciones Web",
+      "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+    },
+    {
+      "id": 7,
+      "nombre": "Software",
+      "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+    },
+    {
+      "id": 8,
+      "nombre": "Estaciones de Trabajo",
+      "desc": "Molestias quam iure quia. Magni accusamus, itaque alias ipsa."
+    }
+  ]
+}
